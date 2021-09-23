@@ -54,5 +54,7 @@ public class Empleado {
         this.nombre = nombre;
     }
     
-    
+    public void tabajar(){
+        
+    }
 }
